@@ -1,5 +1,6 @@
 .cache/
 build/
+library/
 nob
 nob.old
 compile_commands.json
